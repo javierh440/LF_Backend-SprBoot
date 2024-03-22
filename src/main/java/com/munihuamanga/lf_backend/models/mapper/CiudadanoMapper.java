@@ -4,7 +4,6 @@ import com.munihuamanga.lf_backend.models.dto.CiudadanoDTO;
 import com.munihuamanga.lf_backend.models.entities.Ciudadano;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
-import org.mapstruct.factory.Mappers;
 import org.springframework.stereotype.Service;
 
 @Service
